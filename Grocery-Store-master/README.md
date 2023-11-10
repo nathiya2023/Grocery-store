@@ -2,7 +2,7 @@
 <h3 align="center"> A clean, beautiful, responsive and 100% customizable E-Commerce Store made on Python/Django </h3>
 <br>
 <p align="center"> 
-    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/frontimage.png" target="_blank">
+    <a href="https://github.com/nathiya2023/Grocery-Store/blob/master/images/frontimage.png" target="_blank">
     <img src="images/frontimage.png"/>
   </a>
 </p>
@@ -26,7 +26,7 @@
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page.
 - After the successful installation of `python`, clone the repository into your local system using below command:
   - ```python
-     git clone https://github.com/Kshatriya770/Grocery-Store.git
+     git clone https://github.com/nathiya2023/Grocery-Store.git
     ```
   - This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
@@ -59,37 +59,37 @@
 # Screenshots 🌈
 
 <p align="center"> 
-    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/productpage.png" target="_blank">
+    <a href="https://github.com/nathiya2023/Grocery-Store/blob/master/images/productpage.png" target="_blank">
     <img src="images/productpage.png"/>
   </a>
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/signin.png" target="_blank">
+    <a href="https://github.com/nathiya2023/Grocery-Store/blob/master/images/signin.png" target="_blank">
     <img src="images/signup.png"/>
   </a>
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/signup.png" target="_blank">
+    <a href="https://github.com/nathiya2023/Grocery-Store/blob/master/images/signup.png" target="_blank">
     <img src="images/signin.png"/>
   </a>
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/cart.png" target="_blank">
+    <a href="https://github.com/nathiya2023/Grocery-Store/blob/master/images/cart.png" target="_blank">
     <img src="images/cart.png"/>
   </a>
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/address.png" target="_blank">
+    <a href="https://github.com/nathiya2023/Grocery-Store/blob/master/images/address.png" target="_blank">
     <img src="images/address.png"/>
   </a>
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/payment.png" target="_blank">
+    <a href="https://github.com/nathiya2023/Grocery-Store/blob/master/images/payment.png" target="_blank">
     <img src="images/payment.png"/>
   </a>
 </p>
